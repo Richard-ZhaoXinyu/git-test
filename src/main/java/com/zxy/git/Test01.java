@@ -16,5 +16,7 @@ public class Test01 {
         System.out.println("hello,world");
         System.out.println("hello,everybody");
         System.out.println("hello,girl!");
+        System.out.println("pull,test");
+        
     }
 }
